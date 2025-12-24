@@ -1,0 +1,60 @@
+# One Direction – Little White Lies
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:04.13] If this room was burning, I wouldn't even notice
+[00:10.76] 'Cause you've been taking up my mind
+[00:14.40] With your little white lies, little white lies
+[00:37.40] 
+[00:19.57] You say it's getting late, it's getting late
+[00:22.89] And you don't know if you can stay, if you can stay
+[00:26.21] But you, you don't tell the truth
+[00:29.27] No, you, you like playing games
+[00:33.31] Your hands touching me, they're touching me
+[00:36.45] And your eyes keep saying things, they're sayin' what we do
+[00:41.24] When it's only me and you I can't concentrate
+[01:03.74] 
+[00:47.26] That's all I'm thinking about, all I keep thinking about
+[00:50.88] Everything else just fades away
+[01:06.38] 
+[00:54.07] If this room was burning, I wouldn't even notice
+[01:00.75] 'Cause you've been taking up my mind
+[01:03.77] With your little white lies, little white lies
+[01:07.98] You say you're a good girl, but I know you would, girl
+[01:14.59] 'Cause you've been telling me all night
+[01:17.54] With your little white lies, little white lies
+[01:21.14] With your little white lies, little white lies
+[01:44.14] 
+[01:24.99] Back seat of the cab, we're in the cab
+[01:28.06] My lips getting so attached, they're so attached
+[01:31.63] Now you wanna make some rules
+[01:34.78] Now, cool, then we'll watch them break tonight
+[01:57.78] 
+[01:39.93] I know what you want
+[01:42.77] And I've been waiting so long
+[01:57.27] 
+[01:45.61] If this room was burning, I wouldn't even notice
+[01:52.28] 'Cause you've been taking up my mind
+[01:55.53] With your little white lies, little white lies
+[01:59.46] You say you're a good girl, but I know you would, girl
+[02:06.06] 'Cause you've been telling me all night
+[02:09.32] With your little white lies, little white lies
+[02:12.59] With your little white lies, little white lies
+[02:35.59] 
+[02:17.44] I know you want it, I know you feel it too
+[02:24.43] Let's stop pretending that you don't know what I don't know
+[02:28.38] Just what we came to do (came to do, came to do, came to do)
+[02:32.52] (Came to do, came to do, came to do)
+[02:35.03] (Do, what we came to do)
+[02:36.65] (Came to do, came to do, came to do)
+[02:39.43] (Came to do, came to do, do, do, do, do, do, do)
+[03:03.43] 
+[02:44.19] If this room was burning (burning, burning), I wouldn't even notice (yeah)
+[02:50.79] 'Cause you've been taking up my mind (taking up my mind)
+[02:54.09] With your little white lies, little white lies (little white lies)
+[02:57.86] You say you're a good girl (a good girl), but I know you would, girl (know you would, girl)
+[03:04.47] 'Cause you've been telling me all night (all night)
+[03:07.64] With your little white lies, little white lies (little white lies)
+[03:11.34] With your little white lies, little white lies
+```
