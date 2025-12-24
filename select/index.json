@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Little White Lies",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:43:01.855507Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Red Lips, Blue Eyes, Little White Lies",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/01_Red_Lips,_Blue_Eyes,_Little_White_Lies_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Lips, Blue Eyes, Little White Lies (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/02_Red_Lips,_Blue_Eyes,_Little_White_Lies_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Fastball",
+      "has_synced": true,
+      "path": "select/03_Little_White_Lies_Fastball.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Deer Tick",
+      "has_synced": true,
+      "path": "select/04_Little_White_Lies_Deer_Tick.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Deaf Havana",
+      "has_synced": false,
+      "path": "select/05_Little_White_Lies_Deaf_Havana.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Status Quo",
+      "has_synced": true,
+      "path": "select/06_Little_White_Lies_Status_Quo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little white lies",
+      "artist": "Status Quo",
+      "has_synced": false,
+      "path": "select/07_Little_white_lies_Status_Quo.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "The Romantics",
+      "has_synced": false,
+      "path": "select/08_Little_White_Lies_The_Romantics.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Romantics",
+      "has_synced": false,
+      "path": "select/09_Little_White_Lies_Romantics.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Ella Fitzgerald",
+      "has_synced": false,
+      "path": "select/10_Little_White_Lies_Ella_Fitzgerald.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/11_Little_White_Lies_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Dick Haymes",
+      "has_synced": false,
+      "path": "select/12_Little_White_Lies_Dick_Haymes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Jenniffer Kae",
+      "has_synced": true,
+      "path": "select/13_Little_White_Lies_Jenniffer_Kae.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Jennifer Kae",
+      "has_synced": true,
+      "path": "select/14_Little_White_Lies_Jennifer_Kae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Dick Haymes & Gordon Jenkins",
+      "has_synced": false,
+      "path": "select/15_Little_White_Lies_Dick_Haymes_&_Gordon_Jenkins.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "The Alter Boys",
+      "has_synced": true,
+      "path": "select/16_Little_White_Lies_The_Alter_Boys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/17_Little_White_Lies_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Little White Lies",
+      "artist": "Betty Johnson",
+      "has_synced": false,
+      "path": "select/18_Little_White_Lies_Betty_Johnson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Little White Lies",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Little_White_Lies_One_Direction.txt"
+    }
+  ]
+}
